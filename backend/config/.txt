@@ -1,0 +1,19 @@
+1)  
+for login post
+http://localhost:4000/api/v1/login
+   {
+"email":"job@gmail.com",
+"password":"krishna"
+}
+2) update about
+{
+   "about": {
+   " name": "akash",
+    "title":"full stack developer",
+   " subtitle":"teacher",
+    "description":"this is akash vishwakarma",
+    "quote": " life is precious"
+   }
+}
+
+{"_id":{"$oid":"63f4f0d4f8b31489315fb1b6"},"name":"akash1","email":"job1@gmail.com","password":"krishna1","__v":{"$numberInt":"4"},"about":{"description":"this is akash vishwakarma","quote":"life is precious","title":"full stack developer and node.js developer","image":{"public_id":"portfolio/topxxetsbs4mjxnwq0vi","url":"https://res.cloudinary.com/drk8b0kev/image/upload/v1680206165/portfolio/topxxetsbs4mjxnwq0vi.jpg"},"_id":{"$oid":"6425e955e50902b5d5eec0ff"}},"projects":[{"url":"hdfjs","title":"fjhdk","image":{"public_id":"portfolio/nynk92hl4n1rtih54zuh","url":"https://res.cloudinary.com/drk8b0kev/image/upload/v1680429505/portfolio/nynk92hl4n1rtih54zuh.jpg"},"description":"dhfjskda","techStack":"jskd","_id":{"$oid":"642951c1e2cafc7cd4ae0f32"}}],"timeline":[{"title":"akash","description":"akash description","date":{"$date":{"$numberLong":"-62064489600000"}},"_id":{"$oid":"6425e716e50902b5d5eec0ec"}}],"youtube":[{"url":"https://www.youtube.com/watch?v=h1igcrpG-Ek","title":"akash","image":{"public_id":"portfolio/topxxetsbs4mjxnwq0vi","url":"https://res.cloudinary.com/drk8b0kev/image/upload/v1680206165/portfolio/topxxetsbs4mjxnwq0vi.jpg"},"_id":{"$oid":"6425e955e50902b5d5eec0ff"}}]}
